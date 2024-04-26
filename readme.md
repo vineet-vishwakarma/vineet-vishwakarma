@@ -121,6 +121,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=vineet-vishwakarma&theme=midnight-purple)](https://git.io/streak-stats)
 
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ajaykumarparihar&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
+
 </div>
 
 <br><br>
