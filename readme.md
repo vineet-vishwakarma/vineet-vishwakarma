@@ -53,7 +53,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 - Languages
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,dart,js" />
   </a>
