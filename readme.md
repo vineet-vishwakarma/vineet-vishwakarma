@@ -8,7 +8,7 @@
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon"width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/github.svg" alt="icon" width="50" height="50" /> 
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" /> 
 <!--   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,flutter,firebase,github,vscode" />
   </a> -->
@@ -60,7 +60,7 @@
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,flutter,dart,html,css,js,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=react,flutter,dart,html,css,js,tailwind" />
   </a>
 </p>
 
@@ -81,7 +81,7 @@
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,canva,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
   </a>
 </p>
 
