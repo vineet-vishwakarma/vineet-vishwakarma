@@ -6,9 +6,9 @@
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" /> 
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon"width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github.svg" alt="icon" width="50" height="50" /> 
 <!--   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,flutter,firebase,github,vscode" />
   </a> -->
@@ -16,23 +16,16 @@
 
 <br>
 
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="50" height="50" />
-</div>
-
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🔭 I’m currently in 4<sup>th</sup> year Pursuing **BTech CSE**
+- 🔭 Undergrad in **BTech CSE**
 
-- 🌱 I’m currently learning **MongoDB NodeJs ExpressJs**
+<!-- - 🌱 I’m currently learning **MongoDB NodeJs ExpressJs** -->
 
 <!-- - 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life) -->
 
-- 💬 Ask me about **C++, Flutter, Dart and Firebase**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **vineet22vishwakarma@gmail.com**
 
@@ -42,7 +35,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vineetvishwakarma22" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="supunnanayakkara" height="30" width="40" /></a>
-<a href="https://instagram.com/_viineet_" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="supun___lk" height="30" width="40" /></a>
+<a href="https://x.com/_viineet_" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="supun___lk" height="30" width="40" /></a>
 </p>
 <br>
 
@@ -53,21 +46,21 @@
 - Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,dart,js" />
+    <img src="https://skillicons.dev/icons?i=cpp,js,dart" />
   </a>
 </p>
 
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,nodejs,express" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express" />
   </a>
 </p>
 
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,js,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=react,flutter,dart,html,css,js,tailwind,materialui" />
   </a>
 </p>
 
@@ -88,7 +81,7 @@
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=git,github,canva,vscode,postman" />
   </a>
 </p>
 
